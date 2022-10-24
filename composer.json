@@ -1,7 +1,7 @@
 {
     "name": "richard-parnaby-king/developer-task-22",
     "description": "ActiveHouse Developer interview task - 2022: A service for retrieving users via a remote API",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
